@@ -1,8 +1,21 @@
-# React + Vite
+Tienda de Ropa Online
+Un sitio web moderno diseñado para mostrar y vender una variedad de prendas. Este proyecto incluye un catálogo de productos, carrito de compras, formulario y una funcionalidad de pago.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Características
+Catálogo de Productos: Explora artículos con filtros por categoría.
+Carrito de Compras: Añade, elimina y simula la compra de productos.
+Formularios: Deja tu informacion de contacto.
 
-Currently, two official plugins are available:
+Tecnologías Utilizadas
+Frontend: React, CSS, Bootstrap
+Backend: Node.js
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Instalación
+Clona este repositorio.
+Instala las dependencias con npm install.
+Inicia el servidor de desarrollo con npm start.
+Uso
+Regístrate o inicia sesión para acceder a contenido personalizado.
+Añade productos al carrito y finaliza la compra en el proceso de pago.
+
+LINK DE VERCEL: https://react-e-commerce-olive.vercel.app/
