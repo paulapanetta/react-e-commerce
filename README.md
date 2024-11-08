@@ -10,8 +10,7 @@ Formularios: Deja tu informacion de contacto.
 
 Tecnologías Utilizadas
 
-Frontend: React, CSS, Bootstrap
-Backend: Node.js
+Frontend: React, CSS
 
 Instalación
 
